@@ -7,10 +7,10 @@ To complete this project, i'll require the following softwares:
 <li>Python (Numpy, Pandas, Matplotlib, StatsModels, Scipy)</li><br>
 <li>Jupyter Notebook</li><br>
 </ul>
-<b>Part I - Probability</b><br>
+<b>Part I - Probability</b><br><br>
 Statistics were computed to find out the probabilities of converting regardless of page. These were used to analyze if one page or the other led to more conversions.
 
-<b>Part II - A/B Test</b><br>
+<b>Part II - A/B Test</b><br><br>
 Next, hypothesis testing was conducted assuming the old page is better unless the new page proves to be definitely better at a Type I error rate of 5%.
 
 The data was bootstrapped and sampling distributions were determined for both pages. Conclusions were drawn on conversions for both pages by calculating p-values.
